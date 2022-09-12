@@ -1,0 +1,8 @@
+# image dosyaları
+*.png
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
